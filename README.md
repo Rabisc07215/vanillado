@@ -1,2 +1,2 @@
 # vanillado
-funcionalidades para o multiplayer
+adiciona "coisas" pro vanilla
