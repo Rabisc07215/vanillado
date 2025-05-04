@@ -1,6 +1,0 @@
-negotiated_transfer;Troca-Troca;;;;;;;;;;;;;x
-negotiated_transfer_desc;Transfere um estado/colônia pra um player, sem perda de nada.;;;;;;;;;;;;x;
-negotiated_transfer_short;$RECIPIENT$ recebe $STATE$ de nós.;;;;;;;;;;;;;x
-negotiated_transfer_setup;Transfere $STATE$ da nossa nação para $RECIPIENT$;;;;;;;;;;;;x;
-NORMAL_WAR_NEGOTIATE_NAME;$ORDER$$SECOND$ Transfer of $STATE$ to $FIRST_COUNTRY$;;;;;;;;;;;;x;
-AGRESSION_WAR_NEGOTIATE_NAME;$ORDER$$SECOND$ Transfer of $STATE$ to $FIRST_COUNTRY$;;;;;;;;;;;;x;

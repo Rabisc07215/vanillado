@@ -1,6 +1,0 @@
-will_receive_title;Requisitar um PIX;;;;;;;;;;;;x
-will_receive_desc;Isso requisitará um pix para os players. Nota-se que os demais players precisam habilitar a opção de receber as solicitações de pix dos outros jogadores em suas decisões.;;;;;;;;;;;;x
-will_give_title;Habilitar Transferência PIX;;;;;;;;;;;;x
-will_give_desc;Isso permitirá com que você faça PIX para outros players. Precisa ser ativado antes da solicitação de pix. Pode ser desabilitado a qualquer momento.;;;;;;;;;;;;x
-will_not_give_title;Desabilitar o PIX;;;;;;;;;;;;x
-will_not_give_desc;Isso previnirá com que outros players lhe envie solicitações de PIX. Pode ser desabilitado a qualquer momento.;;;;;;;;;;;;x
